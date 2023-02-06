@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969270931287",
+    "project_id": "salla-4e7d2",
+    "storage_bucket": "salla-4e7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969270931287:android:f18d179a7e87510c9f9812",
+        "android_client_info": {
+          "package_name": "com.example.salla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969270931287-eqj59g233la279ja3q7qralmoovq8f1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salla",
+            "certificate_hash": "50abe83e44584cfe20bc86bff07bb78f858f7f1b"
+          }
+        },
+        {
+          "client_id": "969270931287-u9abnrjucpl8b53mjnmcj01qi7m3qo4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegYAeDh16NW-OtUwcNvEMnKHaMKGpIO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969270931287-u9abnrjucpl8b53mjnmcj01qi7m3qo4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
